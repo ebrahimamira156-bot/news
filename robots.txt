@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://news-cwm.pages.dev/sitemap.xml

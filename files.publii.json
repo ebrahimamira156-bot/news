@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "4af406e54f364edf9984b70fa8daeba4"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "c1e5f96b805985294f831571c363b03d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "7ec597a1e8e5f923ebf3d285397aac4f"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "bfff2642690b6e39d559060efe6d714f"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4e14bc7525eadf78c9d070f4a3612c70"
+    },
+    {
+        "path": "learn-quran-recitation-online-a-modern-path-toward-mastering-quranic-reading-with-excellence",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-a-modern-path-toward-mastering-quranic-reading-with-excellence/index.html",
+        "type": "file",
+        "md5": "a9e5821f796786d57d05d8e5987d24d7"
+    },
+    {
+        "path": "learn-quran-recitation-online-your-gateway-to-mastering-the-divine-words-with-confidence-and-accuracy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-your-gateway-to-mastering-the-divine-words-with-confidence-and-accuracy/index.html",
+        "type": "file",
+        "md5": "5b0eefc714a97d0f881d0576cd8f8959"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-44.jfif",
+        "type": "file",
+        "md5": "4f157c5c6c219ee45ae64590bb04b518"
+    },
+    {
+        "path": "recite-quran-online-a-modern-path-to-perfecting-your-recitation-with-ease-and-guidance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recite-quran-online-a-modern-path-to-perfecting-your-recitation-with-ease-and-guidance/index.html",
+        "type": "file",
+        "md5": "4b3060ae831617e789a670598f5250fb"
+    },
+    {
+        "path": "recite-quran-online-your-path-to-mastering-quran-recitation-from-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recite-quran-online-your-path-to-mastering-quran-recitation-from-anywhere/index.html",
+        "type": "file",
+        "md5": "0d515b5fb0e7ce0c1bcb0ddc19ae9753"
+    },
+    {
+        "path": "recite-quran-online-your-path-to-mastering-tajweed-and-building-a-strong-spiritual-connection",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recite-quran-online-your-path-to-mastering-tajweed-and-building-a-strong-spiritual-connection/index.html",
+        "type": "file",
+        "md5": "aff7e0cb011e74f3fdba763c77e2a117"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "28ba10ec2b570d99328f7235c8629bfd"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "b30928e2146360eeffa2ddbeb5add0f9"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "130ea922d133e2e821b349950bc4fd62"
+    }
+]
